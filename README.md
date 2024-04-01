@@ -59,3 +59,17 @@ Ce projet simule un arrêt au stand lors d'un grand prix de Formule 1. Lors de c
 
 # Note :
 - L'unité de temps utilisée dans ce projet est la minute.
+
+
+  # Contact
+
+Pour toute question ou commentaire concernant ce projet, veuillez contacter :
+
+- **Contact:**OUAZZINE YASMINE <b> yasmineouazzine@gmail.com</b>
+
+# Contributeur
+
+Ce projet a été réalisé par :
+
+- YASMINE OUAZZINE
+
