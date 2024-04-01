@@ -54,7 +54,7 @@ Ce projet simule un arrêt au stand lors d'un grand prix de Formule 1. Lors de c
 1. Installez MS Project.
 2. Créez le projet en utilisant les dates et les calendriers fournis.
 3. Ouvrez les fichiers du projet dans Microsoft Project.
-4. Pour voir la version finale, allez directement vers le fichier nommé <b>MiniProjet-Version3-BECHCHAA.mpp</b>
+4. Pour voir la version finale, allez directement vers le fichier nommé <b>MiniProjet-Version3-OUAZZINE.mpp</b>
    
 
 # Note :
