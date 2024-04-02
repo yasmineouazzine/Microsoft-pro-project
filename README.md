@@ -65,7 +65,7 @@ Ce projet simule un arrêt au stand lors d'un grand prix de Formule 1. Lors de c
 
 Pour toute question ou commentaire concernant ce projet, veuillez contacter :
 
-- **Contact:**OUAZZINE YASMINE <b> yasmineouazzine@gmail.com</b>
+- <b>Contact:</b>OUAZZINE YASMINE <b> yasmineouazzine@gmail.com</b>
 
 # Contributeur
 
